@@ -4,7 +4,8 @@ in core Java like how we are taking inputs and using of whike loops,Switch cases
 In this project Basically how we are Add the Patients,update, and retrieve patient details andManage doctor profiles and their availability and Schedule and manage appointments for patients with doctors.
 
 TECHNOLOGY 
-Technology used in the Hospital Management Project
-CORE JAVA
-JDBC
-MYSQL as the DATABASE
+Technology used in the Hospital Management Project.
+
+*) CORE JAVA
+*) JDBC
+*) MYSQL as the DATABASE
