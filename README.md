@@ -7,5 +7,7 @@ TECHNOLOGY
 Technology used in the Hospital Management Project.
 
 *) CORE JAVA
+
 *) JDBC
+
 *) MYSQL as the DATABASE
